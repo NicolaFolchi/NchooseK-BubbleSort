@@ -62,26 +62,3 @@ Now write the **main()** function of your program so it does the following, repe
 Refer to the sample inputs and outputs provided in the **testIO** directory on exactly how to format your I/O. The numbers in the input are assumed to be in decimal format. Name the file with your program **ex3.c**. Compile and run your program on inputs of your choice, and also make sure it runs correctly on the sample inputs provided.
 
 -------------------------------------------------------------------------------------------
-
-
-Submission Procedure
----------------------------------
-
-
-First, make sure that your github repository is up to date with the files on your VM. Enter the following sequence of commands to push your changes to **GitHub**.
-
-```
-git add *
-git commit -m "replace this with a useful message"
-git push origin master
-```
-
-Next, navigate to the assignment on gradescope and click the "upload submission" button. Select **GitHub** as your submission method and log in to your account. Find the assignment you want to submit under the "repository" dropdown, and select **master** under the "branch" dropdown.
-
-Your score should appear under this assignment submission after the autograder is done. The submission policy is subject to change, but ideally you should only need to submit once, after throughly testing your code.
-
-### Additional Note Regarding Git:
-**Git** is a much more piece of software than indicated by this procedure. It is possible that you may have difficulty with it while trying to submit, and familiarity with its use will be a required skill for your future academic and professional careers.
-
-See [this tutorial](http://rogerdudler.github.io/git-guide/) (or any others you may find) for a crash course.
-* * *
